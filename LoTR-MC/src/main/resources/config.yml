@@ -1,0 +1,6 @@
+database:
+    host: REDACTED
+    port: 3306
+    user: lotr
+    pass: jS5r3yw7sDQaYLydBe84PF97
+    database: LoTR

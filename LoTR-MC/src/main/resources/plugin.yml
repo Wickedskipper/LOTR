@@ -1,0 +1,9 @@
+name: Lord of The Rings
+main: uk.co.reosh.lotr.LoTR
+version: ${project.version}
+depend: [ProtocolLib, WorldEdit]
+commands:
+  lotr:
+    description: LoTR Commands
+    usage: /lotr (command) (args)
+    aliases: [lordoftherings]
